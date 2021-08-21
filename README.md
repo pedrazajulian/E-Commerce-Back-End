@@ -2,11 +2,9 @@
 
   ![Github License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-  ## Live App links
+  ## links
 
-  https://notetakermk1.herokuapp.com/
-
-  https://notetakermk1.herokuapp.com/notes
+  https://github.com/pedrazajulian/E-Commerce-Back-End
 
   
 
@@ -66,11 +64,13 @@
   npm test
   <ur>
   
- ## Screenshots 
+ ## Screenshots and video
   
-  ![the following image shows the screen shot from the homework](https://github.com/pedrazajulian/Note_Taker/blob/main/notetkr1.PNG)
+  ![the following image shows the screen shot from the homework](https://github.com/pedrazajulian/E-Commerce-Back-End/blob/main/Assets/Capture%201.PNG)
 
-  ![the following image shows the screen shot from the homework](https://github.com/pedrazajulian/Note_Taker/blob/main/notetkr2.PNG)
+  ![the following image shows the screen shot from the homework](https://github.com/pedrazajulian/E-Commerce-Back-End/blob/main/Assets/Capture%202.PNG)
+
+  https://drive.google.com/file/d/1MiLfbdCkR2aWwC3kxpMi-6O37FNo7oEM/view
 
   ## ✋ Questions 
   Any questions? Contact pedrazajulian@hotmail.com. Access more of my work at [pedrazajulian](https://github.com/pedrazajulian/Team_profile_gen).
