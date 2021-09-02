@@ -66,11 +66,11 @@
   
  ## Screenshots and video
   
-  ![the following image shows the screen shot from the homework](https://github.com/pedrazajulian/E-Commerce-Back-End/blob/main/Assets/Capture%201.PNG)
+  ![the following image shows the screen shot from the homework](https://github.com/pedrazajulian/E-Commerce-Back-End/blob/main/Assets/Capture1.JPG)
 
-  ![the following image shows the screen shot from the homework](https://github.com/pedrazajulian/E-Commerce-Back-End/blob/main/Assets/Capture%202.PNG)
+  ![the following image shows the screen shot from the homework](https://github.com/pedrazajulian/E-Commerce-Back-End/blob/main/Assets/Capture2.JPG)
 
-  https://drive.google.com/file/d/1MiLfbdCkR2aWwC3kxpMi-6O37FNo7oEM/view
+  https://drive.google.com/file/d/1-VJCdBe_9l0dPpDjASS_YBp0p6hc8ASS/view
 
   ## ✋ Questions 
   Any questions? Contact pedrazajulian@hotmail.com. Access more of my work at [pedrazajulian](https://github.com/pedrazajulian/Team_profile_gen).
